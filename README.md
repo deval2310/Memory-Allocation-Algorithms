@@ -25,7 +25,7 @@ This project demonstrates various memory allocation algorithms commonly used in 
 
 ## Tech Stack
 
-- *Frontend*: HTML, Taileind CSS, JavaScript
+- *Frontend*: HTML, Tailwind CSS, JavaScript
 
 ## How It Works
 
